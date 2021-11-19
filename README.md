@@ -14,5 +14,5 @@
 
 𝙑𝙄𝘿𝙀𝙊 𝙏𝙐𝙏𝙊𝙍𝙄𝘼𝙇 𝙇𝙄𝙉𝙆
 
-[  "C:\Users\JunBi\Downloads\scrnli_11_19_2021_10-41-28 AM.webm"  ]
+"C:\Users\JunBi\Downloads\scrnli_11_19_2021_10-41-28 AM.webm"
 
