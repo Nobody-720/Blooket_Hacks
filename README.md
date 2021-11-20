@@ -23,7 +23,5 @@ ________________________________________________________________________________
 
 [scrnli_11_19_2021_10-41-28 AM.zip](https://github.com/Nobody-720/Blooket_Hacks/files/7567475/scrnli_11_19_2021_10-41-28.AM.zip)
 
-[ Video Link Using Script Executor ]
-
 [Video Link Using Script Executor.zip](https://github.com/Nobody-720/Blooket_Hacks/files/7573722/Video.Link.Using.Script.Executor.zip)
 
