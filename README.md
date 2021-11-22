@@ -20,7 +20,9 @@ ________________________________________________________________________________
 
 # Video Link Tutorial
 
-[Video Link Using Console.zip](https://github.com/Nobody-720/Blooket_Hacks/files/7573732/Video.Link.Using.Console.zip)
+[Video Link Using Console.zip](https://github.com/Nobody-720/Blooket_Hacks/files/7580048/Video.Link.Using.Console.zip)
+
+[Video Link Using Book Mark.zip](https://github.com/Nobody-720/Blooket_Hacks/files/7580129/Video.Link.Using.Book.Mark.zip)
 
 
 
