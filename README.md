@@ -22,5 +22,5 @@ ________________________________________________________________________________
 
 [Video Link Using Console.zip](https://github.com/Nobody-720/Blooket_Hacks/files/7573732/Video.Link.Using.Console.zip)
 
-[Video Link Using Script Executor.zip](https://github.com/Nobody-720/Blooket_Hacks/files/7573722/Video.Link.Using.Script.Executor.zip)
+
 
