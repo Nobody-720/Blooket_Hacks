@@ -9,7 +9,7 @@ async function addCurrencies() {
     const Xp = Number(prompt('How many Xp do you want to add to your account? (300 daily)'));
     const myToken = localStorage.token.split('JWT ')[1];
 
-    if (Xp > 500) {
+    if (Xp > 300) {
         alert('You can only add up to 300 Xp daily.')
     }
 
