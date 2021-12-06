@@ -21,7 +21,7 @@ async function addTokens() {
         if (response.status == 200) {
             alert(`500 tokens and 300 Xp added to your account!`)
         } else {
-            console.log('Couldn\'t add 500 tokens')
+            console.log('Couldn\'t add 500 tokens & 300 Xp')
         };
     });
 
